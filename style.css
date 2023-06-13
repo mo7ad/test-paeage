@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#grid {
+    border: 2px solid beige;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#total {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    
+}
